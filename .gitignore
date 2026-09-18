@@ -5,6 +5,7 @@ node_modules/
 dist/
 build/
 coverage/
+.vite/
 
 # Variáveis locais
 .env
@@ -23,4 +24,3 @@ pnpm-debug.log*
 .vscode/
 .DS_Store
 Thumbs.db
-
