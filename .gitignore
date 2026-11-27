@@ -6,6 +6,9 @@ dist/
 build/
 coverage/
 .vite/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
 
 # Variáveis locais
 .env
